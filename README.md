@@ -1,17 +1,17 @@
-## Hi there 👋 It's me  S Sarvesh Balaji
+## Hi there 👋 I am S Sarvesh Balaji
 
 I am a Computer Science(Data Science) Student
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
                                                 
-- I’m currently learning DSA and ML.
-- Engineering at RNSIT,Bengaluru-560098
+ - I’m currently learning DSA and ML.
+ - Engineering at RNSIT,Bengaluru-560098
 ## 🔭 Current Focus
-- Machine Learning algorithms
-- Data visualization techniques
-- Data structures and algorithms
-- Data Science
+  - Machine Learning algorithms
+  - Data visualization techniques
+  - Data structures and algorithms
+  - Data Science
 
- ### Social Presence
+### Social Presence 🧑🏻‍💻
  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/s-sarvesh-balaji/) <br/> 
  [<img width="48" height="48" src="https://img.icons8.com/color/48/GeeksforGeeks.png" alt="GeeksforGeeks"/>](https://www.geeksforgeeks.org/user/sarveshbalaji/)
 
