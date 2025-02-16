@@ -1,7 +1,7 @@
 ## Hi there 👋 I am S Sarvesh Balaji
 
 I am a Computer Science(Data Science) Student
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="330" height="250" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
                                                 
  - I’m currently learning DSA and ML.
  - Engineering at RNSIT,Bengaluru-560098
