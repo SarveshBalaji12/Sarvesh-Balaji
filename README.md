@@ -30,7 +30,7 @@ I am a Computer Science(Data Science) Student
  <img height="30" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/><img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/> <br> 
 
 ## 📫 How to reach me
-- **LinkedIn**: [S Sarvesh Balaji]([(https://www.linkedin.com/in/s-sarvesh-balaji/)])
+- **LinkedIn**: [S Sarvesh Balaji](https://www.linkedin.com/in/s-sarvesh-balaji/)
 - **Email**: [sarveshbalaji26@gmail.com](mailto:sarveshbalaji26@gmail.com)
 
 
