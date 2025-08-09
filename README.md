@@ -21,7 +21,7 @@
 
 
 ### I code in
-<img height="35" width="35" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="35" width="35" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="35" width="35" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="35" width="35" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="35" width="35" src="https://img.icons8.com/color/48/000000/css3.png" /> 
+<img height="35" width="35" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="35" width="35" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="35" width="35" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> 
 <img height="35" width="35" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 
 
@@ -30,10 +30,38 @@
 
 
 
-### IDE and Tools I Use
-<img height="35" width="35" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="35" width="35" src="https://img.icons8.com/color/48/000000/pycharm.png"/>  <img width="35" height="35" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/>
-<img width="35" height="35" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/> <img width="35" height="35" src="https://img.icons8.com/color/48/code-blocks.png" alt="code-blocks"/>
+## 💻 Tech Stack
 
+**Languages**  
+<code><img height="25" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></code>
+<code><img height="25" src="https://img.shields.io/badge/C-blue?style=for-the-badge"/></code>
+<code><img height="25" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/></code>
+<code><img height="25" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></code>
+
+**Data Science & ML**  
+<code><img height="25" src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge"/></code>
+<code><img height="25" src="https://img.shields.io/badge/Data%20Science-purple?style=for-the-badge"/></code>
+<code><img height="25" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/></code>
+<code><img height="25" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/></code>
+<code><img height="25" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/></code>
+<code><img height="25" src="https://img.shields.io/badge/NLP-blueviolet?style=for-the-badge"/></code>
+<code><img height="25" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/></code>
+
+**Web Development**  
+<code><img height="25" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></code>
+<code><img height="25" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></code>
+<code><img height="25" src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/></code>
+<code><img height="25" src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></code>
+<code><img height="25" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></code>
+<code><img height="25" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/></code>
+<code><img height="25" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></code>
+<code><img height="25" src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge"/></code>
+<code><img height="25" src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></code>
+
+**Databases & Tools**  
+<code><img height="25" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/></code>
+<code><img height="25" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></code>
+<code><img height="25" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></code>
 
 
 ### 💻 Workspace Spec
