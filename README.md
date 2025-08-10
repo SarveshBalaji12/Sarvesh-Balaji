@@ -1,14 +1,12 @@
 <!-- HEADER with Animated Banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hi%20I'm%20S%20Sarvesh%20Balaji&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20MERN%20Developer%20|%20AI%20Enthusiast%20|%20Blockchain%20|%20DSA%20|%20AI%2FML&descAlignY=55&descSize=20" />
-</div>
-
-<!-- Typing Effect Tagline -->
+  <img width="90%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=48&duration=4000&pause=1000&color=7F00FF,FF00FF,00FFFF&center=true&vCenter=true&width=800&lines=Hi,+I'm+S+Sarvesh+Balaji" alt="Animated Gradient Text" />
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF0080,FF6B6B,4ECDC4,FFEAA7,DDA0DD,96CEB4&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Full+Stack+MERN+Developer;AI+Enthusiast;Blockchain;DSA;AI%2FML;Ready+to+Collaborate+on+Projects;Looking+for+Internships+%2F+Jobs;Let's+Build+Something+Amazing!" />
-</p>
 
----
+ <h2>MERN Developer | AI Enthusiast | Blockchain | DSA | AI/ML</h2>
+
+</p>
+</div>
 
 <!-- About Me Section -->
 ---
@@ -23,6 +21,7 @@
         <li><h3> MERN Developer</h3></li>
         <li><h3>CSE (Data Science) Student at RNS Institute of Technology</h3></li>
         <li><h3>Learning DSA,AIML,Blockchain</h3></li>
+        <li><h3>Trainee at Samsung Innovation Campus (SIC) </h3></li>
       </ul>
     </td>
     <td width="50%" align="center" style="vertical-align: top; padding: 10px;">
