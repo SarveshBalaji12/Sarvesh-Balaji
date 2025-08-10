@@ -96,8 +96,9 @@
 
 
 ## 📫 How to reach me
-- **LinkedIn**: [S Sarvesh Balaji](https://www.linkedin.com/in/s-sarvesh-balaji/)
+- **Phone no**: [+91 7975588571](tel:+917975588571)
 - **Email**: [sarveshbalaji26@gmail.com](mailto:sarveshbalaji26@gmail.com)
+
 
 
 
