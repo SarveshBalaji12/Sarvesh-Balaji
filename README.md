@@ -42,7 +42,22 @@
 
 
  
- ![](https://gfgstatscard.vercel.app/sarveshbalaji?theme=light)
+ <details>
+<summary><b>📊 GitHub Activity</b></summary><br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SarveshBalaji12&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarveshBalaji12&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SarveshBalaji12&theme=tokyonight" height="150"/>
+</p>
+</details>
+
+<details>
+<summary><b>💻 GeeksforGeeks Stats</b></summary><br>
+<p align="center">
+  <img src="https://gfgstatscard.vercel.app/sarveshbalaji?theme=light" width="400px"/>
+</p>
+</details>
+
 
 
 
