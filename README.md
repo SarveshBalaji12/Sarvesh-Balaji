@@ -9,26 +9,25 @@
 </div>
 
 <!-- About Me Section -->
----
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=500&color=FF6B6B&center=true&vCenter=true&width=435&lines=About+Me+👨‍💻" />
 </div>
-
 <table style="margin-left:auto; margin-right:auto; width: 80%; max-width: 900px; border-collapse: collapse;">
   <tr>
     <td width="50%" style="vertical-align: top; padding: 10px;">
       <ul style="list-style-type:none; padding-left:0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-        <li><h3> MERN Developer</h3></li>
-        <li><h3>CSE (Data Science) Student at RNS Institute of Technology</h3></li>
-        <li><h3>Learning DSA,AIML,Blockchain</h3></li>
-        <li><h3>Trainee at Samsung Innovation Campus (SIC) </h3></li>
+        <li><h3 style="margin: 0 0 8px 0;">MERN Developer</h3></li>
+        <li><h3 style="margin: 0 0 8px 0;">CSE (Data Science) Student at RNS Institute of Technology</h3></li>
+        <li><h3 style="margin: 0 0 8px 0;">Learning DSA,AIML,Blockchain</h3></li>
+        <li><h3 style="margin: 0;">Trainee at Samsung Innovation Campus (SIC)</h3></li>
       </ul>
     </td>
     <td width="50%" align="center" style="vertical-align: top; padding: 10px;">
-      <img src="ic.png" alt="Profile Image" width="50%" height="50%" />
+      <img src="ghibli.jpeg" alt="Profile Image" width="50%" height="50%" />
     </td>
   </tr>
 </table>
+
 
 
 
