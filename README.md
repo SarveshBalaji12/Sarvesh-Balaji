@@ -1,7 +1,8 @@
 <!-- HEADER with Animated Banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hi%20I'm%20SRINIVAS%20BN&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20MERN%20Developer%20|%20AI%20Enthusiast&descAlignY=55&descSize=20" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hi%20I'm%20S%20Sarvesh%20Balaji&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20MERN%20Developer%20|%20AI%20Enthusiast%20|%20Blockchain%20|%20DSA%20|%20AI%2FML&descAlignY=55&descSize=20" />
 </div>
+
 
 <!-- Typing Effect Tagline -->
 <p align="center">
@@ -21,16 +22,15 @@
 
 <ul>
   <li><h3>MERN Developer</h3></li>
-  <li><h3>CSE (AI & ML) Student at RNS Institute of Technology</h3></li>
+  <li><h3>CSE (Data Science) Student at RNS Institute of Technology</h3></li>
   <li><h3>Learning DSA,AIML, MERN Advanced</h3></li>
   <li><h3>🔗 Email: 1rn22cd076.ssarveshbalaji@rnsit.ac.in</h3></li>
-  <li><h3>🔗 LeetCode Profile: <a href="https://leetcode.com/u/srinidell2002/">srinidell2002</a></h3></li>
 </ul>
 
 </td>
 <td width="50%" align="center">
 
-<img src="https://raw.githubusercontent.com/SRINIVASBN/SRINIVAS-BN/main/srini.png" width="50%" height="50%" />
+
 
 </td>
 </tr>
